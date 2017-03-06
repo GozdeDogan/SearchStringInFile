@@ -7,6 +7,7 @@ VirtualBox - 14.04 Ubuntu
 
 Program çalıştırılırken 2 argüman alarak çalıştırılır;
     ./list "string" <filename>
+    
 Eksik argüman girilirse usage verilir ve çıkılır.
 Girilen dosya içinde iç içe geçmiş olsa da bulunan her string 
 aradığımız string dir. 
